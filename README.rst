@@ -1,7 +1,11 @@
 Storm
 =====
-.. image:: https://semaphoreci.com/api/v1/projects/c8497587-883c-4f41-99f9-fa466a57e7b5/552509/badge.svg
-    :target: https://semaphoreci.com/bgaifullin/storm
+.. image:: https://travis-ci.org/bgaifullin/storm.svg
+    :target: https://travis-ci.org/bgaifullin/storm
+
+ .. image:: https://coveralls.io/repos/bgaifullin/storm/badge.png?branch=master
+    :target: https://coveralls.io/r/bgaifullin/storm?branch=master
+
 
 The library to easy build rest-full web services based on asynchronous frameworks
 Module based ideology
