@@ -49,7 +49,7 @@ if __name__ == '__main__':
         author_email="gaifullinbf@gmail.com",
         maintainer="Bulat Gaifullin",
         maintainer_email="gaifullinbf@gmail.com",
-        url='https://bitbucket.org/kab00m/storm',
+        url='https://github.com/bgaifullin/storm',
         license='MIT',
         long_description=readme(),
         classifiers=[
