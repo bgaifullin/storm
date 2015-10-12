@@ -1,0 +1,4 @@
+tornado >= 4.0.2
+nose
+coverage
+-e git+https://github.com/bgaifullin/ultrajson#egg=Package

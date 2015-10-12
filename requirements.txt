@@ -1,0 +1,3 @@
+tornado >= 4.0.2
+wsql >= 1.2.5
+-e git+https://bitbucket.org/kab00m/ultrajson.git#egg=Package
