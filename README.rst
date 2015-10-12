@@ -1,9 +1,10 @@
+=====
 Storm
 =====
 .. image:: https://travis-ci.org/bgaifullin/storm.svg
     :target: https://travis-ci.org/bgaifullin/storm
 
- .. image:: https://coveralls.io/repos/bgaifullin/storm/badge.png?branch=master
+.. image:: https://coveralls.io/repos/bgaifullin/storm/badge.png?branch=master
     :target: https://coveralls.io/r/bgaifullin/storm?branch=master
 
 
