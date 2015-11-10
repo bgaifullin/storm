@@ -41,7 +41,7 @@ Arguments:
 * **url** The resource uri, can be relative or absolute
 * **secure** If True, the method requires authentication, default: True.
 * **status** Specify HTTP status for response, default: 200.
-* **mutator** the comma separated list of mutators, that can be applied for arguments and result, to more details see section `MUTATORS`_.
+* **wrap** the comma separated list of wrappers, that can be applied for arguments and result, to more details see section `Wrappers`_.
 
 
 The function arguments are converted to input arguments by using standard python function argument
@@ -103,7 +103,7 @@ Modules
   * *google_api_key* The google application key
   * *google_secret* The google application secret
 
-Mutators
+Wrappers
 ========
 * **json** the json input and output formatting
 * **json.ouput** transform only the function result
